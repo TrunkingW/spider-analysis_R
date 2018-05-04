@@ -4,7 +4,8 @@
   於是我很好奇的進去把影片看完了，在影片裡他強調只要找出勝率高的方法，長期操作下來就一定會有高獲利，在此他提出了三個高勝率的方法，
   由於他的第一個方法用詞有些模糊，我看不太懂數據上要如何去處理，故先撇除，至於第二與第三個方法一個叫做V轉一個叫做A轉，於是我將我對
   這兩個所謂高勝率方法的理解，先建立一套數據分析模型，再透過歷史數據的篩選得出統計結果。
-  <br />
+<br />
+<br />
   首先透過臺灣期貨交易所網站上所提供的訊息取得所有股期交易標的資料[2][3]，再藉由臺灣證券交易所取得每個股期標的歷史資料[4][5]來進行分析，
 
 
@@ -16,8 +17,8 @@
 
 
 ## 參考資料
-[1]"自由人教您運用『股期當沖三式』，１天賺走11,710元！"YOUTUBE,https://www.youtube.com/watch?v=kYMqmZOYaLw
-[2]臺灣期貨交易所股票期貨，www.taifex.com.tw/chinese/2/STF.asp
-[3]臺灣期貨交易所股票期貨/股票選擇權 交易標的，http://www.taifex.com.tw/chinese/2/StockLists.asp
-[4]臺灣證券交易所，http://www.twse.com.tw/
-[5]台灣證券交易所webservice，www.twse.com.tw/exchangeReport/STOCK_DAY?response=json&date=填入日期&stockNo=填入股票代號
+[1]"自由人教您運用『股期當沖三式』，１天賺走11,710元！"YOUTUBE,https://www.youtube.com/watch?v=kYMqmZOYaLw <br />
+[2]臺灣期貨交易所股票期貨，www.taifex.com.tw/chinese/2/STF.asp <br />
+[3]臺灣期貨交易所股票期貨/股票選擇權 交易標的，http://www.taifex.com.tw/chinese/2/StockLists.asp <br />
+[4]臺灣證券交易所，http://www.twse.com.tw/ <br />
+[5]台灣證券交易所webservice，www.twse.com.tw/exchangeReport/STOCK_DAY?response=json&date=填入日期&stockNo=填入股票代號 <br />
