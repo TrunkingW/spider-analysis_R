@@ -11,21 +11,27 @@
   結果如下圖:
 <br /><br />
 ![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_1.PNG)
-    圖一 統計結果_1
+<br />
+圖一 統計結果_1
 <br /><br />
 ![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_2.PNG)
+<br />
 圖二 統計結果_2
 <br /><br />
 ![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_3.PNG)
+<br />
 圖三 統計結果_3
 <br /><br />
 ![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_4.PNG)
+<br />
 圖四 統計結果_4
 <br /><br />
 ![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_4.PNG)
+<br />
 圖五 統計結果_5
 <br /><br />
 ![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_6.PNG)
+<br />
 圖六 統計結果_6
 <br /><br />
    如上圖所示，第一欄"標的代碼"所顯示代表各個標的代碼，第二欄"天數"表示代表該標的統計天數，本案例統計約兩年交易天數，第三欄"漲幅達標"為
