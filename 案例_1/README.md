@@ -11,27 +11,23 @@
   結果如下圖:
 <br /><br />
 ![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_1.PNG)
-<br />
     圖一 統計結果_1
-<br />
+<br /><br />
 ![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_2.PNG)
-<br />
 圖二 統計結果_2
-<br />
+<br /><br />
 ![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_3.PNG)
-<br />
 圖三 統計結果_3
-<br />
+<br /><br />
 ![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_4.PNG)
-<br />
 圖四 統計結果_4
-<br />
+<br /><br />
 ![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_4.PNG)
 圖五 統計結果_5
-<br />
+<br /><br />
 ![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_6.PNG)
 圖六 統計結果_6
-<br />
+<br /><br />
    如上圖所示，第一欄"標的代碼"所顯示代表各個標的代碼，第二欄"天數"表示代表該標的統計天數，本案例統計約兩年交易天數，第三欄"漲幅達標"為
 在統計交易天數內所有當日達成最高漲幅超過5%標準的總計天數，第四欄"A轉完成"當漲幅達標後反轉回檔超過3%即形成A轉，第五欄"跌幅達標"與第三欄類似
 跌幅超過5%標準的總計天數，第六欄"V轉完成"跌幅達標後向上反轉超過3%即形成V轉，第七欄"漲.跌幅達標"在同一天內最高與最低點都超過5%，
