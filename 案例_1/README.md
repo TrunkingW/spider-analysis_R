@@ -11,15 +11,19 @@
   結果如下圖:
 <br />
 ![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_1.PNG)
+<br />
 圖一 統計結果_1
 <br />
 ![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_2.PNG)
+<br />
 圖二 統計結果_2
 <br />
 ![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_3.PNG)
+<br />
 圖三 統計結果_3
 <br />
 ![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_4.PNG)
+<br />
 圖四 統計結果_4
 <br />
 ![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_4.PNG)
