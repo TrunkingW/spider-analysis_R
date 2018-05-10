@@ -26,7 +26,7 @@
 <br />
 圖四 統計結果_4
 <br /><br />
-![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_4.PNG)
+![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_5.PNG)
 <br />
 圖五 統計結果_5
 <br /><br />
