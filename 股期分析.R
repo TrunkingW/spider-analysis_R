@@ -15,8 +15,10 @@ analysis <- matrix(ncol=7)
 for (j in subject[,1])
 {
   
-  Buffer <- GetStockData(j, 2)
-
+  #Buffer <- GetStockData(j, 2)
+  Buffer <- GetStockData("2548", 2)
+  
+  
   for (i in 2:length(Buffer[,1]))
   {
     
