@@ -9,7 +9,7 @@
 <br />
   首先透過臺灣期貨交易所網站上所提供的訊息取得所有股期交易標的資料[2][3]，再藉由臺灣證券交易所取得每個股期標的歷史資料[4][5]來進行分析，
   結果如下圖:
-<br />
+<><br />
 ![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_1.PNG)
 <br />
 圖一 統計結果_1
