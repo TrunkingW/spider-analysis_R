@@ -9,10 +9,25 @@
 <br />
   首先透過臺灣期貨交易所網站上所提供的訊息取得所有股期交易標的資料[2][3]，再藉由臺灣證券交易所取得每個股期標的歷史資料[4][5]來進行分析，
   結果如下圖:
-
-圖一
-圖二
-
+<br />
+![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_1.PNG)
+圖一 統計結果_1
+<br />
+![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_2.PNG)
+圖二 統計結果_2
+<br />
+![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_3.PNG)
+圖三 統計結果_3
+<br />
+![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_4.PNG)
+圖四 統計結果_4
+<br />
+![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_4.PNG)
+圖五 統計結果_5
+<br />
+![image](https://github.com/TrunkingW/spider-analysis_R/blob/master/案例_1/Image/統計結果_6.PNG)
+圖六 統計結果_6
+<br />
    如上圖所示，第一欄"標的代碼"所顯示代表各個標的代碼，第二欄"天數"表示代表該標的統計天數，本案例統計約兩年交易天數，第三欄"漲幅達標"為
 在統計交易天數內所有當日達成最高漲幅超過5%標準的總計天數，第四欄"A轉完成"當漲幅達標後反轉回檔超過3%即形成A轉，第五欄"跌幅達標"與第三欄類似
 跌幅超過5%標準的總計天數，第六欄"V轉完成"跌幅達標後向上反轉超過3%即形成V轉，第七欄"漲.跌幅達標"在同一天內最高與最低點都超過5%，
